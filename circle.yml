@@ -10,4 +10,4 @@ deployment:
   aws: 
   branch: master
     commands: 
-      - /bin/bash ./scripts/deploy.sh
+    - /bin/bash ./scripts/deploy.sh
