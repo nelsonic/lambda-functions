@@ -7,7 +7,7 @@ dependencies:
     - pip install awscli
 
 deployment:
-  aws:
+  aws: 
   branch: master
-    commands:
-      - ./scripts/deploy.sh
+    commands: 
+      - /bin/bash ./scripts/deploy.sh
