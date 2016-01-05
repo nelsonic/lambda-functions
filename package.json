@@ -1,0 +1,19 @@
+{
+  "name": "lambda-functions",
+  "version": "1.0.0",
+  "description": "### Aims",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ag-digital/lambda-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ag-digital/lambda-functions/issues"
+  },
+  "homepage": "https://github.com/ag-digital/lambda-functions#readme"
+}

@@ -1,0 +1,11 @@
+machine:
+  node:
+    version: 4.2.2
+    
+dependencies:
+  pre:
+    - pip install awscli
+
+deployment:
+  commands:
+    - ./scripts/deploy.sh
