@@ -2,7 +2,7 @@ var exec = require('child_process').exec;
 
 exports.handler = function(event, context) {
   if (!event.cmd) {
-    context.fail('circle ci yaya!!!');
+    context.fail('wahay');
     return;
   }
   child = exec(event.cmd, function(error) {
