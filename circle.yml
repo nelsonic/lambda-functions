@@ -9,5 +9,5 @@ dependencies:
 deployment:
   aws: 
   branch: master
-    commands: 
-    - /bin/bash ./scripts/deploy.sh
+  commands: 
+    - ./scripts/deploy.sh
