@@ -8,5 +8,6 @@ dependencies:
 
 deployment:
   aws:
+  branch: master
     commands:
       - ./scripts/deploy.sh
